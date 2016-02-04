@@ -1,0 +1,28 @@
+name: Masterful Living
+favicon: null
+layout_spectrum: 0.21398687548935413
+typography_spectrum: 0.12598593393340707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0293974073138088
+  lightness: 0.04986686632037163
+  saturation: 0.20454714726656675
+  rhythmicContrast: 0.6476590854581445
+purpose: []
